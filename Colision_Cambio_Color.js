@@ -1,4 +1,4 @@
-// Selecciona el elemento canvas del documento HTML
+// Selecciona el elemento canvas del documento HTML 
 const canvas = document.getElementById("canvas");
 let ctx = canvas.getContext("2d");
 
